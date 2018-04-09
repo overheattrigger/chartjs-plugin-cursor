@@ -1,0 +1,5 @@
+.eslintrc.js
+*.code-workspace
+example/node_modules/*
+example/*.csv
+example/*.xlsx
